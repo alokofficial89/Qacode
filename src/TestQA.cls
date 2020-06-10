@@ -1,3 +1,8 @@
 public Class TestQA {
-  return 'Hello QA';
+
+public String hello() {
+return 'Hello World!';
 }
+
+}
+
