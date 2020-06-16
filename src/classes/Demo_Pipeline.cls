@@ -1,5 +1,9 @@
 public class Demo_Pipeline{
-  puclic String demo(){
-    return "Hello Demo!!!";
-  }
+
+public String hello1() {
+
+return 'Hello World!';
+
+}
+
 }
